@@ -1,2 +1,2 @@
 # winston-email-transport-
-mail transport for Winston based using Nodemailer
+mail transport for Winston using Nodemailer
