@@ -1,0 +1,30 @@
+{
+  "name": "winston-email-transport",
+  "version": "1.0.0",
+  "description": "mail transport for Winston",
+  "main": "lib/transport.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanHilal/winston-email-transport.git"
+  },
+  "keywords": [
+    "winston"
+  ],
+  "author": "Alan Hilal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlanHilal/winston-email-transport/issues"
+  },
+  "homepage": "https://github.com/AlanHilal/winston-email-transport#readme",
+  "dependencies": {
+    "nodemailer": "~4.6.8",
+    "winston-transport": "~4.2.0"
+  }
+}
